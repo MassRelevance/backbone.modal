@@ -11,7 +11,6 @@
     "Adam McElwee <adam@massrelevance.com>"
   ],
   "description": "A plugin for Backbone.js that simplifies creating modals for your application.",
-  "license": "MIT",
   "private": true,
   "ignore": [
     "**/.*",
@@ -19,5 +18,8 @@
     "bower_components",
     "test",
     "tests"
-  ]
+  ],
+  "dependencies": {
+    "backbone-amd": "~1.0.0"
+  }
 }
