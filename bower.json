@@ -1,0 +1,23 @@
+{
+  "name": "backbone.modal",
+  "main": [
+    "backbone.modal.js",
+    "backbone.modal.css",
+    "backbone.modal.theme.css"
+  ],
+  "version": "1.0.0",
+  "homepage": "https://github.com/MassRelevance/backbone.modal",
+  "authors": [
+    "Adam McElwee <adam@massrelevance.com>"
+  ],
+  "description": "A plugin for Backbone.js that simplifies creating modals for your application.",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
